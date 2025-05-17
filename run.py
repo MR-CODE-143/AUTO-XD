@@ -1,2 +1,2 @@
-from AUTOXD import iDcreateFb
+from AWM import iDcreateFb
 iDcreateFb().mainpoint()
